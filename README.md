@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avez Qureshi</h1>
-<h3 align="center">A passionate full stack developer and C++ Programmer from India</h3>
+<h3 align="center">A passionate full stack web developer and C++ Programmer from India</h3>
 
 - 🤝 I’m looking for help with **MERN Development Projects**
 
