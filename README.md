@@ -1,7 +1,7 @@
 
 
 
-<img src="https://media-exp1.licdn.com/dms/image/D4D16AQFjFkIi6anqUQ/profile-displaybackgroundimage-shrink_350_1400/0/1666261526107?e=1671667200&v=beta&t=b_t3D2O64A0tRlQsJixMYdUY1V_qNphqye3sEs_NBfY" alt="banner"/>
+
 <h1 align="center">Hi 👋, I'm Avez Qureshi</h1>
 <h3 align="center">A passionate full stack web developer and C++ Programmer from India</h3>
 
