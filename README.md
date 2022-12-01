@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **avezqureshi4785@gmail.com**
 
+- 🎉 Successfully completed [HACKTOBERFEST 2022](https://www.holopin.io/userbadge/cl9zb1ar9036508lfg17nv0g7)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avezqureshi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avezqureshi14" height="30" width="40" /></a>
