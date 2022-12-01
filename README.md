@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Avez Qureshi</h1>
 <h3 align="center">A passionate full stack web developer and OPEN SOURCE CONTRIBUTOR </h3>
 
+- 🎉 Successfully completed [HACKTOBERFEST 2022](https://www.holopin.io/userbadge/cl9zb1ar9036508lfg17nv0g7)
+
 - 🤝 I’m looking for help with **MERN Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://avezqureshi.netlify.app/](https://avezqureshi.netlify.app/)
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **avezqureshi4785@gmail.com**
 
-- 🎉 Successfully completed [HACKTOBERFEST 2022](https://www.holopin.io/userbadge/cl9zb1ar9036508lfg17nv0g7)  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
