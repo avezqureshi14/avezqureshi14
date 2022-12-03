@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Mongo DB, Express JS, React JS, Node JS**
 
-- 📫 How to reach me **avezqureshi4785@gmail.com**
+- 📫 How to reach me **avezqureshi4785@gmail.com** 
 
   
 
