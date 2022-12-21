@@ -26,7 +26,7 @@
 </p>
 
 [![@avezqureshi14's Holopin board](https://holopin.me/avezqureshi14)](https://holopin.io/@avezqureshi14)
-[![@avezqureshi140's Holopin board](https://holopin.me/avezqureshi140)](https://holopin.io/@avezqureshi140)
+[![@avezqureshi140's Holopin board](https://holopin.me/avezqureshi140)](https://holopin.io/@avezqureshi140)  
 
 
 <h3 align="left">Languages and Tools:</h3>
