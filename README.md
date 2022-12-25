@@ -1,7 +1,3 @@
-
-     
- 
-
 <h1 align="center">Hi 👋, I'm Avez Qureshi</h1>     
 <h3 align="center">A passionate full stack web developer and OPEN SOURCE CONTRIBUTOR </h3>   
 
