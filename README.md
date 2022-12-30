@@ -3,7 +3,7 @@
          
 - 🎉 Successfully completed [HACKTOBERFEST 2022](https://www.holopin.io/userbadge/cl9zb1ar9036508lfg17nv0g7)   
     
-- 🤝 I’m looking for help with **MERN Development Projects**    
+- 🤝 I’m looking for help with **MERN Development Projects**      
 
 - 👨‍💻 All of my projects are available at [https://avezqureshi.netlify.app/](https://avezqureshi.netlify.app/)  
   
