@@ -20,7 +20,7 @@
 <a href="https://instagram.com/avezqureshi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avezqureshi14" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avezqureshi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avezqureshi14" height="30" width="40" /></a>
 </p>
-
+ 
 [![@avezqureshi14's Holopin board](https://holopin.me/avezqureshi14)](https://holopin.io/@avezqureshi14)
 [![@avezqureshi140's Holopin board](https://holopin.me/avezqureshi140)](https://holopin.io/@avezqureshi140)  
 
