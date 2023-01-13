@@ -6,7 +6,7 @@
 - 🤝 I’m looking for help with **MERN Development Projects**        
      
 - 👨‍💻 All of my projects are available at [https://avezqureshi.netlify.app/](https://avezqureshi.netlify.app/)  
-  
+   
 - 💬 Ask me about **Mongo DB, Express JS, React JS, Node JS**       
  
 - 📫 How to reach me **avezqureshi4785@gmail.com** 
