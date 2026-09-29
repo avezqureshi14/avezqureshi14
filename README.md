@@ -1,6 +1,6 @@
 # Hi, I'm Avez Qureshi
 
-### Software Engineer | Backend & Distributed Systems | Go | Node.js | PostgreSQL | Kafka
+### Software Engineer | Backend & Distributed Systems | Go | Java | Spring Boot | Node.js | PostgreSQL | Kafka
 
 I’m a Software Engineer with 2+ years of experience building and scaling production applications, backend services, and data-intensive systems.
 
@@ -13,7 +13,7 @@ I enjoy solving engineering problems where scalability, reliability, performance
 ## About Me
 
 * Software Engineer with 2+ years of professional experience
-* Currently working with **Golang, Node.js, PostgreSQL, Redis, Kafka, Docker, and Kubernetes**
+* Currently working with **Golang, Java, Spring Boot, Node.js, PostgreSQL, Redis, Kafka, Docker, and Kubernetes**
 * Experienced in designing **REST APIs, asynchronous processing pipelines, worker systems, and event-driven architectures**
 * Worked on systems handling high-volume data ingestion and concurrent workloads
 * Strong interest in **Distributed Systems, System Design, Databases, and Backend Architecture**
@@ -27,6 +27,8 @@ I enjoy solving engineering problems where scalability, reliability, performance
 ```text
 Backend Engineering
     ├── Golang
+    ├── Java
+    ├── Spring Boot
     ├── Distributed Systems
     ├── Node.js
     └── Kafka / Redpanda
@@ -53,6 +55,7 @@ Infrastructure
 ### Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -60,6 +63,7 @@ Infrastructure
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 
