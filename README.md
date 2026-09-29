@@ -1,6 +1,6 @@
 # Hi, I'm Avez Qureshi
 
-### Software Engineer | Backend & Distributed Systems | Go | Java 
+### Software Engineer | Backend & Distributed Systems | Go | Java | NodeJS
 
 I’m a Software Engineer with 2+ years of experience building and scaling production applications, backend services, and data-intensive systems.
 
