@@ -6,8 +6,6 @@ I’m a Software Engineer with 2+ years of experience building and scaling produ
 
 My current focus is on **Golang, backend engineering, distributed systems, event-driven architecture, databases, and cloud-native infrastructure**.
 
-I enjoy solving engineering problems where scalability, reliability, performance, and clean architecture matter.
-
 ## Tech Stack
 
 ### Languages
