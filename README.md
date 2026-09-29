@@ -8,48 +8,6 @@ My current focus is on **Golang, backend engineering, distributed systems, event
 
 I enjoy solving engineering problems where scalability, reliability, performance, and clean architecture matter.
 
----
-
-## About Me
-
-* Software Engineer with 2+ years of professional experience
-* Currently working with **Golang, Java, Spring Boot, Node.js, PostgreSQL, Redis, Kafka, Docker, and Kubernetes**
-* Experienced in designing **REST APIs, asynchronous processing pipelines, worker systems, and event-driven architectures**
-* Worked on systems handling high-volume data ingestion and concurrent workloads
-* Strong interest in **Distributed Systems, System Design, Databases, and Backend Architecture**
-* Practicing **Data Structures & Algorithms** consistently on LeetCode
-* Previously worked extensively with the **MERN stack**
-
----
-
-## Engineering Focus
-
-```text
-Backend Engineering
-    ├── Golang
-    ├── Java
-    ├── Spring Boot
-    ├── Distributed Systems
-    ├── Node.js
-    └── Kafka / Redpanda
-
-Databases & Storage
-    ├── PostgreSQL
-    ├── MySQL
-    ├── MongoDB
-    ├── Redis
-    └── SQLite
-
-Infrastructure
-    ├── Docker
-    ├── Kubernetes
-    ├── Linux
-    ├── CI/CD
-    └── Cloud deployments
-```
-
----
-
 ## Tech Stack
 
 ### Languages
